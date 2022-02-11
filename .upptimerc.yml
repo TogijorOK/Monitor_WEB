@@ -26,8 +26,7 @@ status-website:
   introTitle: "**MONITOR-Servicios WEB**"
   introMessage: Dirección Tecnología de la Información - Gerencia de Servicios Informáticos
   navbar:
-    - title: Estado de sevicios
-      href: https://togijorok.github.io/Monitor_WEB/
+    
     - title: AySA S.A.
       href: https://www.aysa.com.ar
     - title: Info
