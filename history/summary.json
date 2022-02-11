@@ -22,36 +22,40 @@
     "url": "https://intranet.aysa.com.ar",
     "icon": "https://favicons.githubusercontent.com/intranet.aysa.com.ar",
     "slug": "intranet",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 721,
     "timeDay": 721,
     "timeWeek": 721,
     "timeMonth": 721,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   },
   {
     "name": "Service Desk",
     "url": "https://servicedesk.aysa.com.ar",
     "icon": "https://favicons.githubusercontent.com/servicedesk.aysa.com.ar",
     "slug": "service-desk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 991,
     "timeDay": 991,
     "timeWeek": 991,
     "timeMonth": 991,
     "timeYear": 991,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   },
   {
     "name": "Turnera",
