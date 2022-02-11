@@ -20,7 +20,8 @@
   {
     "name": "Intranet",
     "url": "https://intranet.aysa.com.ar",
-    "icon": "https://favicons.githubusercontent.com/intranet.aysa.com.ar",
+    "icon": "https://intranet.aysa.com.ar/assets/img/login_logo.png",
+    #"icon": "https://favicons.githubusercontent.com/intranet.aysa.com.ar",
     "slug": "intranet",
     "status": "up",
     "uptime": "100.00%",
