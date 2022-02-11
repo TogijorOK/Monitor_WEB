@@ -27,9 +27,11 @@ status-website:
   introMessage: Dirección Tecnología de la Información - Gerencia de Servicios Informáticos
   navbar:
     - title: Estado de sevicios
-      href: /
+      href: https://github.com/TogijorOK/Monitor_WEB
     - title: AySA S.A.
       href: https://www.aysa.com.ar
+    - title: Info
+      href: https://github.com/TogijorOK/Monitor_WEB
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
