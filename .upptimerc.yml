@@ -8,7 +8,7 @@ sites:
     url: https://www.aysa.com.ar
   - name: Intranet
     url: https://intranet.aysa.com.ar
-  - name: Servicedesk
+  - name: Service Desk
     url: https://servicedesk.aysa.com.ar
   - name: Turnera
     url: https://turnosonline.aysa.com.ar
