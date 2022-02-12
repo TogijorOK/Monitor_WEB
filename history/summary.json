@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 175,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "time": 178,
+    "timeDay": 178,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/intranet.aysa.com.ar",
     "slug": "intranet",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 721,
     "timeDay": 721,
     "timeWeek": 721,
     "timeMonth": 721,
     "timeYear": 721,
-    "dailyMinutesDown": {
-      "2022-02-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Service Desk",
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/servicedesk.aysa.com.ar",
     "slug": "service-desk",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 991,
     "timeDay": 991,
     "timeWeek": 991,
     "timeMonth": 991,
     "timeYear": 991,
-    "dailyMinutesDown": {
-      "2022-02-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Turnera",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 130,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "time": 135,
+    "timeDay": 135,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1462,
-    "timeDay": 1462,
-    "timeWeek": 1462,
-    "timeMonth": 1462,
-    "timeYear": 1462,
+    "time": 1458,
+    "timeDay": 1458,
+    "timeWeek": 1458,
+    "timeMonth": 1458,
+    "timeYear": 1458,
     "dailyMinutesDown": {}
   }
 ]
