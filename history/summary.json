@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 259,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "time": 212,
+    "timeDay": 188,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 772,
-    "timeWeek": 724,
-    "timeMonth": 724,
-    "timeYear": 724,
+    "time": 722,
+    "timeDay": 736,
+    "timeWeek": 722,
+    "timeMonth": 722,
+    "timeYear": 722,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1008,
-    "timeDay": 1075,
-    "timeWeek": 1008,
-    "timeMonth": 1008,
-    "timeYear": 1008,
+    "time": 1037,
+    "timeDay": 1128,
+    "timeWeek": 1037,
+    "timeMonth": 1037,
+    "timeYear": 1037,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/turnosonline.aysa.com.ar",
     "slug": "turnera",
     "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
+    "uptime": "93.00%",
+    "uptimeDay": "54.75%",
+    "uptimeWeek": "93.00%",
+    "uptimeMonth": "93.00%",
+    "uptimeYear": "93.00%",
     "time": 137,
-    "timeDay": 177,
+    "timeDay": 0,
     "timeWeek": 137,
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2022-02-17": 71
+      "2022-02-18": 79,
+      "2022-02-17": 572
     }
   },
   {
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1525,
-    "timeDay": 1818,
-    "timeWeek": 1525,
-    "timeMonth": 1525,
-    "timeYear": 1525,
+    "time": 1532,
+    "timeDay": 1623,
+    "timeWeek": 1532,
+    "timeMonth": 1532,
+    "timeYear": 1532,
     "dailyMinutesDown": {}
   }
 ]
