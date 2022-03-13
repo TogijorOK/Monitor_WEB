@@ -7,13 +7,13 @@ sites:
   - name: Sitio WEB Corporativo
     url: https://www.aysa.com.ar
   - name: Intranet
-    url: https://intranet.aysa.com.ar
+    url: https://www.intranet.aysa.com.ar
   - name: Service Desk
-    url: https://servicedesk.aysa.com.ar
+    url: https://www.servicedesk.aysa.com.ar
   - name: Turnera
-    url: https://turnosonline.aysa.com.ar
+    url: https://www.turnosonline.aysa.com.ar
   - name: Correo (OWA)
-    url: https://mail.aysa.com.ar
+    url: https://www.mail.aysa.com.ar
     
   
 status-website:
