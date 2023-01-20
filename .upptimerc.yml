@@ -5,7 +5,7 @@ repo: Monitor_WEB # The name of this repository
 sites:
   
   - name: Sitio WEB Corporativo
-    url: https://aysa.com.ar
+    url: https://www.aysa.com.ar
   - name: Intranet
     url: https://intranet.aysa.com.ar
   - name: Servicedesk
