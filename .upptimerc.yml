@@ -6,6 +6,7 @@ sites:
   
   - name: Sitio WEB Corporativo
     url: https://www.aysa.com.ar
+    __dangerous__disable_verify_peer: true
   - name: Autoservicio (Ciberseguridad)
     url: https://autoservicio.aysa.com.ar/authorization.do
   - name: Campus
