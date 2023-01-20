@@ -5,7 +5,7 @@ repo: Monitor_WEB # The name of this repository
 sites:
   
   - name: Sitio WEB Corporativo
-    url: https://www.aysa.com.ar
+    url: https://aysa.com.ar
   - name: Intranet
     url: https://intranet.aysa.com.ar
   - name: Servicedesk
@@ -14,19 +14,23 @@ sites:
     url: https://turnosonline.aysa.com.ar
   - name: Correo (OWA)
     url: https://mail.aysa.com.ar
+  - name: Licitaciones
+    url: https://aysa.com.ar/proveedores/licitaciones
+  - name: Tarifa social
+    url: https://aysa.com.ar/usuarios/Tarifa-Social/tarifa_social
     
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl: /Monitor_WEB
-  logoUrl: https://www.aysa.com.ar/media-library/imagenes_inicio/logo.png
+  baseUrl: /aysastatus
+  logoUrl: https://aysa.com.ar/media-library/imagenes_inicio/logo.png
   name: Soporte Aplicativos
   introTitle: "**MONITOR-Servicios WEB**"
   introMessage: Dirección Tecnología de la Información - Gerencia de Servicios Informáticos
   navbar:
-    - title: Estado de sevicios
+    - title: Estado de sevicios web
       href: /
     - title: AySA S.A.
       href: https://www.aysa.com.ar
