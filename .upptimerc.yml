@@ -6,6 +6,8 @@ sites:
   
   - name: Sitio WEB Corporativo
     url: https://www.aysa.com.ar
+  - name: Autoservicio (Ciberseguridad)
+    url: https:://autoservicio.aysa.com.ar
   - name: Campus
     url: https://campus.aysa.com.ar
   - name: Intranet
@@ -36,6 +38,8 @@ status-website:
       href: /
     - title: AySA S.A.
       href: https://www.aysa.com.ar
+    - title: Powered by
+      href: https://https://github.com/TogijorOK
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
