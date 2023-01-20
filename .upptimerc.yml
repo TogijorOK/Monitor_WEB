@@ -22,8 +22,10 @@ sites:
     icon: https://es.wikipedia.org/wiki/Microsoft_Outlook#/media/Archivo:Microsoft_Office_Outlook_(2018%E2%80%93present).svg
   - name: Licitaciones
     url: https://aysa.com.ar/proveedores/licitaciones
+    __dangerous__disable_verify_peer: true
   - name: Tarifa social
     url: https://aysa.com.ar/usuarios/Tarifa-Social/tarifa_social
+    __dangerous__disable_verify_peer: true
     
   
 status-website:
