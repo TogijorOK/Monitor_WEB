@@ -7,7 +7,7 @@ sites:
   - name: Sitio WEB Corporativo
     url: https://www.aysa.com.ar
   - name: Autoservicio (Ciberseguridad)
-    url: https:://autoservicio.aysa.com.ar
+    url: https://autoservicio.aysa.com.ar/authorization.do
   - name: Campus
     url: https://campus.aysa.com.ar
   - name: Intranet
