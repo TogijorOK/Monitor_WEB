@@ -19,7 +19,7 @@ sites:
     url: https://turnosonline.aysa.com.ar
   - name: Correo (OWA)
     url: https://mail.aysa.com.ar
-    icon: https://es.wikipedia.org/wiki/Microsoft_Outlook#/media/Archivo:Microsoft_Office_Outlook_(2018%E2%80%93present).svg
+    icon: https://github.com/TogijorOK/Monitor_WEB/blob/b48bd30ea49f527326e27bcbcccb347e2b7e8fe0/assets/ico_outlook.png
   - name: Licitaciones
     url: https://aysa.com.ar/proveedores/licitaciones
     __dangerous__disable_verify_peer: true
