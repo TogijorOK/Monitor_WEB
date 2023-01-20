@@ -18,7 +18,7 @@ sites:
     url: https://turnosonline.aysa.com.ar
   - name: Correo (OWA)
     url: https://mail.aysa.com.ar
-    icon: https://ow2.res.office365.com/owalanding/2022.9.20.02/images/app-icons-in-orbit-base.jpg
+    icon: https://es.wikipedia.org/wiki/Microsoft_Outlook#/media/Archivo:Microsoft_Office_Outlook_(2018%E2%80%93present).svg
   - name: Licitaciones
     url: https://aysa.com.ar/proveedores/licitaciones
   - name: Tarifa social
