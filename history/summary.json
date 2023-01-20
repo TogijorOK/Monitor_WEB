@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/autoservicio.aysa.com.ar.ico",
     "slug": "autoservicio-ciberseguridad",
     "status": "up",
-    "uptime": "2.59%",
-    "uptimeDay": "2.59%",
-    "uptimeWeek": "2.59%",
-    "uptimeMonth": "2.59%",
-    "uptimeYear": "2.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1045,
     "timeDay": 1045,
     "timeWeek": 1045,
     "timeMonth": 1045,
     "timeYear": 1045,
-    "dailyMinutesDown": {
-      "2023-01-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Campus",
