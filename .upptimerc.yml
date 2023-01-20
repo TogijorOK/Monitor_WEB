@@ -6,6 +6,8 @@ sites:
   
   - name: Sitio WEB Corporativo
     url: https://www.aysa.com.ar
+  - name: Campus
+    url: https://campus.aysa.com.ar
   - name: Intranet
     url: https://intranet.aysa.com.ar
   - name: Servicedesk
