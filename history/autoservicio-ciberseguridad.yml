@@ -1,7 +1,7 @@
 url: https://autoservicio.aysa.com.ar/authorization.do
-status: up
-code: 200
-responseTime: 946
-lastUpdated: 2023-06-23T23:17:10.307Z
+status: down
+code: 502
+responseTime: 6367
+lastUpdated: 2023-06-24T15:20:04.192Z
 startTime: Fri Jan 20 2023 11:07:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
