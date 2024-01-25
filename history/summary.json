@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 366,
-    "timeDay": 188,
-    "timeWeek": 458,
-    "timeMonth": 498,
-    "timeYear": 369,
+    "time": 367,
+    "timeDay": 685,
+    "timeWeek": 313,
+    "timeMonth": 502,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2023-09-26": 21,
       "2023-04-14": 41
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/autoservicio.aysa.com.ar.ico",
     "slug": "autoservicio-ciberseguridad",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.18%",
-    "time": 1059,
-    "timeDay": 907,
-    "timeWeek": 1042,
-    "timeMonth": 1030,
-    "timeYear": 1061,
+    "time": 1061,
+    "timeDay": 1723,
+    "timeWeek": 1124,
+    "timeMonth": 1042,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2023-09-25": 28,
       "2023-09-24": 1187,
@@ -48,8 +48,7 @@
       "2023-03-27": 1155,
       "2023-03-26": 1177,
       "2023-02-26": 921,
-      "2023-01-26": 24,
-      "2023-01-25": 51
+      "2023-01-26": 24
     }
   },
   {
@@ -63,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
-    "time": 1598,
-    "timeDay": 1681,
+    "time": 1599,
+    "timeDay": 1948,
     "timeWeek": 1569,
-    "timeMonth": 1525,
-    "timeYear": 1591,
+    "timeMonth": 1527,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2023-09-26": 15,
       "2023-08-11": 30,
@@ -82,8 +81,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 327,
       "2023-04-12": 19,
-      "2023-04-06": 18,
-      "2023-01-25": 21
+      "2023-04-06": 18
     }
   },
   {
@@ -97,11 +95,11 @@
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.01%",
-    "time": 912,
-    "timeDay": 998,
-    "timeWeek": 930,
-    "timeMonth": 1078,
-    "timeYear": 917,
+    "time": 913,
+    "timeDay": 1231,
+    "timeWeek": 931,
+    "timeMonth": 1084,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2024-01-18": 40,
       "2024-01-04": 35,
@@ -113,8 +111,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 327,
       "2023-04-05": 322,
-      "2023-04-04": 385,
-      "2023-01-25": 21
+      "2023-04-04": 385
     }
   },
   {
@@ -129,10 +126,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 785,
-    "timeDay": 392,
-    "timeWeek": 475,
-    "timeMonth": 481,
-    "timeYear": 758,
+    "timeDay": 939,
+    "timeWeek": 499,
+    "timeMonth": 491,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2023-08-25": 16,
       "2023-06-28": 31,
@@ -141,8 +138,7 @@
       "2023-04-17": 1136,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 327,
-      "2023-01-25": 20
+      "2023-04-14": 327
     }
   },
   {
@@ -156,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 202,
-    "timeDay": 180,
-    "timeWeek": 160,
-    "timeMonth": 148,
-    "timeYear": 203,
+    "time": 203,
+    "timeDay": 466,
+    "timeWeek": 183,
+    "timeMonth": 154,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2023-04-14": 190
     }
@@ -171,21 +167,20 @@
     "icon": "https://github.com/TogijorOK/Monitor_WEB/blob/b48bd30ea49f527326e27bcbcccb347e2b7e8fe0/assets/ico_outlook.png",
     "slug": "correo-owa",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1669,
-    "timeDay": 1352,
-    "timeWeek": 1622,
-    "timeMonth": 1680,
-    "timeYear": 1674,
+    "time": 1670,
+    "timeDay": 1936,
+    "timeWeek": 1598,
+    "timeMonth": 1675,
+    "timeYear": 1675,
     "dailyMinutesDown": {
       "2023-12-14": 42,
       "2023-04-22": 17,
-      "2023-03-17": 54,
-      "2023-01-25": 20
+      "2023-03-17": 54
     }
   },
   {
@@ -200,10 +195,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 201,
-    "timeDay": 48,
-    "timeWeek": 166,
-    "timeMonth": 182,
-    "timeYear": 202,
+    "timeDay": 349,
+    "timeWeek": 164,
+    "timeMonth": 177,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2023-09-29": 18,
       "2023-08-28": 43,
@@ -223,10 +218,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 64,
-    "timeDay": 16,
-    "timeWeek": 59,
+    "timeDay": 139,
+    "timeWeek": 57,
     "timeMonth": 52,
-    "timeYear": 64,
+    "timeYear": 65,
     "dailyMinutesDown": {
       "2023-04-14": 37
     }
