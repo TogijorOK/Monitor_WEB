@@ -10,16 +10,15 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 357,
-    "timeDay": 189,
-    "timeWeek": 320,
-    "timeMonth": 295,
-    "timeYear": 365,
+    "time": 358,
+    "timeDay": 577,
+    "timeWeek": 323,
+    "timeMonth": 300,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2024-04-08": 24,
       "2024-04-04": 15,
-      "2023-09-26": 21,
-      "2023-04-14": 41
+      "2023-09-26": 21
     }
   },
   {
@@ -28,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/autoservicio.aysa.com.ar.ico",
     "slug": "autoservicio-ciberseguridad",
     "status": "up",
-    "uptime": "90.91%",
+    "uptime": "90.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "57.32%",
-    "uptimeMonth": "37.08%",
+    "uptimeWeek": "62.83%",
+    "uptimeMonth": "40.34%",
     "uptimeYear": "89.86%",
-    "time": 1092,
-    "timeDay": 1254,
-    "timeWeek": 1318,
-    "timeMonth": 1242,
-    "timeYear": 1112,
+    "time": 1093,
+    "timeDay": 1400,
+    "timeWeek": 1334,
+    "timeMonth": 1246,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2024-04-09": 647,
       "2024-04-08": 662,
@@ -88,8 +87,7 @@
       "2023-04-23": 667,
       "2023-04-17": 1135,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 327
+      "2023-04-15": 1440
     }
   },
   {
@@ -98,18 +96,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/campus.aysa.com.ar.ico",
     "slug": "campus",
     "status": "down",
-    "uptime": "89.83%",
+    "uptime": "89.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.53%",
+    "uptimeYear": "87.26%",
     "time": 1605,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1606,
+    "timeYear": 1608,
     "dailyMinutesDown": {
-      "2024-04-12": 69,
+      "2024-04-13": 57,
+      "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -164,8 +163,7 @@
       "2023-04-25": 19,
       "2023-04-17": 1155,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 327
+      "2023-04-15": 1440
     }
   },
   {
@@ -174,18 +172,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.aysa.com.ar.ico",
     "slug": "intranet",
     "status": "down",
-    "uptime": "89.60%",
+    "uptime": "89.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.37%",
+    "uptimeYear": "87.10%",
     "time": 930,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 958,
+    "timeYear": 959,
     "dailyMinutesDown": {
-      "2024-04-12": 69,
+      "2024-04-13": 57,
+      "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -238,8 +237,7 @@
       "2023-07-21": 19,
       "2023-04-17": 1136,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 327
+      "2023-04-15": 1440
     }
   },
   {
@@ -248,15 +246,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicedesk.aysa.com.ar.ico",
     "slug": "servicedesk",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 745,
-    "timeDay": 282,
-    "timeWeek": 499,
-    "timeMonth": 462,
+    "timeDay": 813,
+    "timeWeek": 524,
+    "timeMonth": 468,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2023-08-25": 16,
@@ -265,8 +263,7 @@
       "2023-06-02": 120,
       "2023-04-17": 1136,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 327
+      "2023-04-15": 1440
     }
   },
   {
@@ -281,13 +278,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 193,
-    "timeDay": 35,
-    "timeWeek": 213,
+    "timeDay": 253,
+    "timeWeek": 189,
     "timeMonth": 144,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-02-22": 134,
-      "2023-04-14": 190
+      "2024-02-22": 134
     }
   },
   {
@@ -296,16 +292,16 @@
     "icon": "https://github.com/TogijorOK/Monitor_WEB/blob/b48bd30ea49f527326e27bcbcccb347e2b7e8fe0/assets/ico_outlook.png",
     "slug": "correo-owa",
     "status": "up",
-    "uptime": "94.54%",
+    "uptime": "94.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.13%",
-    "uptimeMonth": "44.40%",
+    "uptimeWeek": "63.21%",
+    "uptimeMonth": "45.70%",
     "uptimeYear": "93.32%",
-    "time": 1696,
-    "timeDay": 1517,
-    "timeWeek": 1829,
-    "timeMonth": 2103,
-    "timeYear": 1716,
+    "time": 1697,
+    "timeDay": 1991,
+    "timeWeek": 1813,
+    "timeMonth": 2115,
+    "timeYear": 1717,
     "dailyMinutesDown": {
       "2024-04-09": 646,
       "2024-04-08": 650,
@@ -366,14 +362,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 193,
-    "timeDay": 107,
-    "timeWeek": 158,
-    "timeMonth": 144,
-    "timeYear": 189,
+    "timeDay": 372,
+    "timeWeek": 161,
+    "timeMonth": 146,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2023-09-29": 18,
-      "2023-08-28": 43,
-      "2023-04-14": 38
+      "2023-08-28": 43
     }
   },
   {
@@ -388,13 +383,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 119,
-    "timeDay": 18,
-    "timeWeek": 1671,
-    "timeMonth": 733,
-    "timeYear": 129,
+    "timeDay": 155,
+    "timeWeek": 1672,
+    "timeMonth": 734,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-02-09": 24,
-      "2023-04-14": 37
+      "2024-02-09": 24
     }
   }
 ]
