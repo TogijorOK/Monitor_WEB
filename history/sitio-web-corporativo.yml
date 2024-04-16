@@ -1,7 +1,7 @@
 url: https://www.aysa.com.ar
-status: up
-code: 200
-responseTime: 166
-lastUpdated: 2024-04-16T20:13:20.755Z
+status: down
+code: 502
+responseTime: 165
+lastUpdated: 2024-04-16T20:51:16.536Z
 startTime: 2023-01-20T03:08:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
