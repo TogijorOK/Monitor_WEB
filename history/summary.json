@@ -6,9 +6,9 @@
     "slug": "sitio-web-corporativo",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.96%",
     "time": 355,
     "timeDay": 168,
@@ -16,7 +16,6 @@
     "timeMonth": 307,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2024-04-19": 11,
       "2024-04-18": 75,
       "2024-04-16": 65,
       "2024-04-08": 24,
@@ -109,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 1597,
     "dailyMinutesDown": {
-      "2024-04-19": 1117,
+      "2024-04-19": 1132,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
@@ -188,7 +187,7 @@
     "timeMonth": 0,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2024-04-19": 1117,
+      "2024-04-19": 1132,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
@@ -362,10 +361,10 @@
     "url": "https://aysa.com.ar/proveedores/licitaciones",
     "icon": "https://icons.duckduckgo.com/ip3/aysa.com.ar.ico",
     "slug": "licitaciones",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 192,
@@ -374,6 +373,7 @@
     "timeMonth": 158,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2024-04-19": 2,
       "2024-04-18": 26,
       "2023-09-29": 18,
       "2023-08-28": 43
@@ -384,10 +384,10 @@
     "url": "https://aysa.com.ar/usuarios/Tarifa-Social/tarifa_social",
     "icon": "https://icons.duckduckgo.com/ip3/aysa.com.ar.ico",
     "slug": "tarifa-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 124,
@@ -396,6 +396,7 @@
     "timeMonth": 732,
     "timeYear": 138,
     "dailyMinutesDown": {
+      "2024-04-19": 0,
       "2024-04-18": 26,
       "2024-02-09": 24
     }
