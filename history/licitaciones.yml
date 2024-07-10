@@ -1,7 +1,7 @@
 url: https://aysa.com.ar/proveedores/licitaciones
-status: up
-code: 200
-responseTime: 39
-lastUpdated: 2024-07-09T23:19:33.061Z
+status: down
+code: 502
+responseTime: 30
+lastUpdated: 2024-07-10T22:27:59.756Z
 startTime: 2023-01-20T03:13:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
